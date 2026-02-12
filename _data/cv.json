@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Dongyue Guo",
+    "email": "dongyueguo@scu.edu.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://github.com/gdy-scu/dongyueguo.github.io",
+    "summary": "Currently employed at Sichuan University.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -16,46 +16,46 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?hl=en&user=hJCKsa0AAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/my-orcid?orcid=0000-0003-0393-5197"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "gdy-scu",
+        "url": "https://github.com/gdy-scu"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Sichuan University",
+      "area": "Ph.D in Electronic Information",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2020.09",
+      "endDate": "2023.12",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Sichuan University",
+      "area": "M.S. in Software Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2017.09",
+      "endDate": "2020.06",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Yantai University",
+      "area": "B.S. in Communication Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2013.09",
+      "endDate": "2017.06",
       "gpa": null,
       "courses": []
     }
