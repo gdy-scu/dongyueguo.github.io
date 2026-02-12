@@ -71,7 +71,7 @@ IEEE Transactions on Circuits and Systems II: Express Briefs, 2023, 70(9):3714-3
 
 1. *AV-RISE: Hierarchical Cross-Modal Denoising for Learning Robust Audio-Visual Speech Representation* <br>
 Zhishuo Zhao, Yi Lin, **Dongyue Guo**, Junyu Fan <br>
-Proceedings of the 31st ACM International Conference on Multimedia, 2023:213-221. (***<span style="color:red">CCF-A</span>, Co-corresponding author) <br>
+Proceedings of the 31st ACM International Conference on Multimedia, 2023:213-221. (***<span style="color:red">CCF-A</span>***, Co-corresponding author) <br>
 
 1. *A comparative study of speaker role identification in air traffic communication using deep learning approaches* <br>
 **Dongyue Guo**, Jianwei Zhang, Bo Yang, Yi Lin <br> 
