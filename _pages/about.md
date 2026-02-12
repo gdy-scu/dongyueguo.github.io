@@ -1,17 +1,101 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Dongyue Guo's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Dongyue Guo is currently an associate professor with the College of Computer Science, Sichuan University (SCU), Chengdu, China. He received Ph.D. degree from the College of Computer Science, Sichuan University, 2023. His research focuses on intelligent transportation systems, air traffic management, trajectory prediction, and AI-driven decision support technologies. He has led multiple nationally funded research projects and has established a strong publication record in top-tier journals and conferences across transportation engineering and artificial intelligence. 
 
-A data-driven personal website
+
+郭东岳，四川大学副研究员（专职科研）。目前，主持国家自然科学基金2项，包括青年科学基金（C类）1项、民航联合基金课题1项（合作单位主持），省部级项目/课题3项；获得中国航空学会科技进步二等奖1项、中国智能交通协会科技进步二等奖1项、入选CCF智能交通分会博士学位论文激励计划；以第一/通信作者身份发表学术论文10余篇，包括Nature Communications（2篇）、IEEE TNNLS、IEEE TITS（2篇）、CJA、IEEE TIM、IEEE TCAS-II、ACM TALLIP、AAAI、ACM Multimedia（2篇）等业内旗舰期刊/会议；申请发明专利20余件。
+
+
+**Email:** dongyueguo@scu.edu.cn
+
+Research Interests
+======
+* Air Traffic Control, Flight Trajectory Prediction, Time Series Forecasting, Air Traffic Flow Prediction, Decision-making
+* Automatic Speech Recognition, Speaker Recognition, Speech Processing
+* Deep Learning
+
+
+Selected Publications
+=====
+1. *Multi-horizon flight trajectory prediction enabled by time-frequency wavelet transform* [[Paper](https://www.nature.com/articles/s41467-025-67399-9)] [[Code](https://doi.org/10.5281/zenodo.17624336)] <br>
+**Dongyue Guo**, Zheng Zhang, Jiayi Liu, Jianwei Zhang, Yi Lin <br>
+Nature Communications, 2026, 17, 633 (***<span style="color:red">Nature 子刊</span>***) <br>
+
+1. *Integrating spoken instructions into flight trajectory prediction to optimize automation in air traffic control* [[Paper](https://www.nature.com/articles/s41467-024-54069-5)] [[Code](https://doi.org/10.5281/zenodo.13939556)] <br>
+**Dongyue Guo**, Zheng Zhang, Bo Yang, Jianwei Zhang, Hongyu Yang, Yi Lin <br>
+Nature Communications, 2024, 15, 9662 (***<span style="color:red">Nature 子刊, ESI Hot Paper</span>***) <br>
+
+1. *Flight trajectory prediction enabled by time-frequency wavelet transform* [[Paper](https://www.nature.com/articles/s41467-023-40903-9)] [[Code](https://doi.org/10.5281/zenodo.8238768)] <br>
+Zheng Zhang, **Dongyue Guo**, Shizhong Zhou, Jianwei Zhang, Yi Lin <br>
+Nature Communications, 2023, 14, 5258 (***<span style="color:red">Nature 子刊, ESI Highly Cited Paper</span>***) <br> 
+
+1. *A non-autoregressive multi-horizon flight trajectory prediction framework with gray code representation* [[Paper](https://ieeexplore.ieee.org/abstract/document/11198840)] [[Code](https://github.com/gdy-scu/FlightBERT_PP_V2)] <br>
+**Dongyue Guo**, Zheng Zhang, Fengshuo Ye, Zhen Yan, Jianwei Zhang, Hongyu Yang, Yi Lin <br>
+IEEE Transactions on Intelligent Transportation Systems, 2025, 26(11):21069-21084. 
+
+1. *FlightBERT++: A non-autoregressive multi-horizon flight trajectory prediction framework* [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27763)] [[Code](https://github.com/gdy-scu/FlightBERT_PP)] [[Video/Poster](https://ojs.aaai.org/index.php/AAAI/article/view/27763/27568)]<br>
+**Dongyue Guo**, Zheng Zhang, Zhen Yan, Jianwei Zhang, Yi Lin <br>
+Proceedings of the AAAI Conference on Artificial Intelligence, 2024, 38(1):127-134. (***<span style="color:red">CCF-A</span>***) <br>
+
+1. *FlightBERT: Binary encoding representation for flight trajectory prediction* <br>
+**Dongyue Guo**, Edmond Q Wu, Yuankai Wu, Jianwei Zhang, Rob Law, Yi Lin <br> 
+IEEE Transactions on Intelligent Transportation Systems, 2023, 24(2):1828-1842. 
+
+1. *M2ats: A real-world multimodal air traffic situation benchmark dataset and beyond* [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3613759)] <br>
+**Dongyue Guo**, Yi Lin, Xuehang You, Zhongping Yang, Jizhe Zhou, Bo Yang, Jianwei Zhang, Han Shi, Shasha Hu, Zheng Zhang <br>
+Proceedings of the 31st ACM International Conference on Multimedia, 2023:213-221. (***<span style="color:red">CCF-A, Oral</span>***) <br>
+
+1. *Multi-modal intelligent situation awareness in real-time air traffic control: Control intent understanding and flight trajectory prediction* <br>
+**Dongyue Guo**, Jianwei Zhang, Bo Yang, Yi Lin <br>
+Chinese Journal of Aeronautics, 2025, 38(6), 103376. (***<span style="color:red">入选期刊亮点文章</span>***) <br>
+
+1. *Exploring Contextual Knowledge-Enhanced Speech Recognition in Air Traffic Control Communication: A Comparative Study* <br>
+**Dongyue Guo**, Shiyu Zhang, Jianwei Zhang, Bo Yang, Yi Lin <br>
+IEEE Transactions on Neural Networks and Learning Systems, 2025, 36(9):16085-16099.
+
+1. *Enhancing Speech Activity Detection in Air Traffic Control Communication via Push-to-Talk Event Identification* <br>
+**Dongyue Guo**, Xuehang You, Wang Yue, Chunpeng Wang, Jianwei Zhang, Yi Lin <br>
+IEEE Transactions on Instrumentation and Measurement, 2025, 74, 6503412. 
+
+1. *Boosting low-resource speech recognition in air traffic communication via pretrained feature aggregation and multi-task learning* <br>
+**Dongyue Guo**, Zichen Zhang, Bo Yang, Jianwei Zhang, Yi Lin <br> 
+IEEE Transactions on Circuits and Systems II: Express Briefs, 2023, 70(9):3714-3718. 
+
+1. *AV-RISE: Hierarchical Cross-Modal Denoising for Learning Robust Audio-Visual Speech Representation* <br>
+Zhishuo Zhao, Yi Lin, **Dongyue Guo**, Junyu Fan <br>
+Proceedings of the 31st ACM International Conference on Multimedia, 2023:213-221. (***<span style="color:red">CCF-A</span>, Co-corresponding author) <br>
+
+1. *A comparative study of speaker role identification in air traffic communication using deep learning approaches* <br>
+**Dongyue Guo**, Jianwei Zhang, Bo Yang, Yi Lin <br> 
+ACM Transactions on Asian and Low-Resource Language Information Processing, 2023, 22(4), 102. 
+
+
+
+Funds and Projects
+=====
+* Young Scientists Fund of the National Natural Science Foundation of China, **Principal Investigator**
+* Young Scientists Fund of the National Natural Science Foundation of Sichuan Province, China, **Principal Investigator**
+
+Honors and Awards
+=====
+* 中国智能交通协会，科技进步二等奖，2025.09
+* 中国航空学会，科技进步二等奖，2023.08 
+* 中国计算机学会智能交通分会，优秀博士学位论文激励计划，2025.11 （当年全国仅2人）
+
+
+
+
+
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -25,11 +109,11 @@ For those users that need more advanced functionality, the template also support
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
@@ -53,4 +137,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
