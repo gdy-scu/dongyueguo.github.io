@@ -23,7 +23,7 @@ repository               : "gdy-scu/dongyueguo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/profile.png"
+  avatar           : "/images/profile.png"
   name             : "Dongyue Guo"
   pronouns         : # example: "she/her"  
   bio              : "Associate professor"
