@@ -27,15 +27,15 @@ Selected Publications
 =====
 1. *Multi-horizon flight trajectory prediction enabled by time-frequency wavelet transform.* [[Paper](https://www.nature.com/articles/s41467-025-67399-9)] [[Code](https://doi.org/10.5281/zenodo.17624336)] <br>
 **Dongyue Guo**, Zheng Zhang, Jiayi Liu, Jianwei Zhang, Yi Lin <br>
-Nature Communications, 2026, 17, 633. (***<span style="color:#8B0000">Nature 子刊</span>***) <br>
+Nature Communications, 2026, 17, 633. (***<span style="color:#FF7D00">Nature 子刊</span>***) <br>
 
 1. *Integrating spoken instructions into flight trajectory prediction to optimize automation in air traffic control.* [[Paper](https://www.nature.com/articles/s41467-024-54069-5)] [[Code](https://doi.org/10.5281/zenodo.13939556)] <br>
 **Dongyue Guo**, Zheng Zhang, Bo Yang, Jianwei Zhang, Hongyu Yang, Yi Lin. <br>
-Nature Communications, 2024, 15, 9662. (***<span style="color:#8B0000">Nature 子刊, ESI Hot Paper</span>***) <br>
+Nature Communications, 2024, 15, 9662. (***<span style="color:#FF7D00">Nature 子刊, ESI Hot Paper</span>***) <br>
 
 1. *Flight trajectory prediction enabled by time-frequency wavelet transform.* [[Paper](https://www.nature.com/articles/s41467-023-40903-9)] [[Code](https://doi.org/10.5281/zenodo.8238768)] <br>
 Zheng Zhang, **Dongyue Guo**, Shizhong Zhou, Jianwei Zhang, Yi Lin. <br>
-Nature Communications, 2023, 14, 5258 (***<span style="color:#8B0000">Nature 子刊, ESI Highly Cited Paper</span>***) <br> 
+Nature Communications, 2023, 14, 5258 (***<span style="color:#FF7D00">Nature 子刊, ESI Highly Cited Paper</span>***) <br> 
 
 1. *A non-autoregressive multi-horizon flight trajectory prediction framework with gray code representation.* [[Paper](https://ieeexplore.ieee.org/abstract/document/11198840)] [[Code](https://github.com/gdy-scu/FlightBERT_PP_V2)] <br>
 **Dongyue Guo**, Zheng Zhang, Fengshuo Ye, Zhen Yan, Jianwei Zhang, Hongyu Yang, Yi Lin. <br>
@@ -43,19 +43,23 @@ IEEE Transactions on Intelligent Transportation Systems, 2025, 26(11):21069-2108
 
 1. *FlightBERT++: A non-autoregressive multi-horizon flight trajectory prediction framework.* [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27763)] [[Code](https://github.com/gdy-scu/FlightBERT_PP)] [[Video/Poster](https://ojs.aaai.org/index.php/AAAI/article/view/27763/27568)]<br>
 **Dongyue Guo**, Zheng Zhang, Zhen Yan, Jianwei Zhang, Yi Lin. <br>
-Proceedings of the AAAI Conference on Artificial Intelligence, 2024, 38(1):127-134. (***<span style="color:#8B0000">CCF-A</span>***) <br>
+Proceedings of the AAAI Conference on Artificial Intelligence, 2024, 38(1):127-134. (***<span style="color:#FF7D00">CCF-A</span>***) <br>
 
-1. *FlightBERT: Binary encoding representation for flight trajectory prediction.* <br>
+1. *FlightBERT: Binary encoding representation for flight trajectory prediction.* [[Paper](https://ieeexplore.ieee.org/abstract/document/9945661)] [[Code](https://github.com/gdy-scu/FlightBERT_PP)]<br>
 **Dongyue Guo**, Edmond Q Wu, Yuankai Wu, Jianwei Zhang, Rob Law, Yi Lin. <br> 
 IEEE Transactions on Intelligent Transportation Systems, 2023, 24(2):1828-1842. 
 
 1. *M2ATS: A real-world multimodal air traffic situation benchmark dataset and beyond.* [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3613759)] <br>
 **Dongyue Guo**, Yi Lin, Xuehang You, Zhongping Yang, Jizhe Zhou, Bo Yang, Jianwei Zhang, Han Shi, Shasha Hu, Zheng Zhang. <br>
-Proceedings of the 31st ACM International Conference on Multimedia, 2023:213-221. (***<span style="color:#8B0000">CCF-A, Oral</span>***) <br>
+Proceedings of the 31st ACM International Conference on Multimedia, 2023:213-221. (***<span style="color:#FF7D00">CCF-A, Oral</span>***) <br>
 
 1. *Multi-modal intelligent situation awareness in real-time air traffic control: Control intent understanding and flight trajectory prediction.* <br>
 **Dongyue Guo**, Jianwei Zhang, Bo Yang, Yi Lin. <br>
-Chinese Journal of Aeronautics, 2025, 38(6), 103376. (***<span style="color:#8B0000">入选期刊亮点文章</span>***) <br>
+Chinese Journal of Aeronautics, 2025, 38(6), 103376. (***<span style="color:#FF7D00">入选期刊亮点文章</span>***) <br>
+
+1. *AV-RISE: Hierarchical Cross-Modal Denoising for Learning Robust Audio-Visual Speech Representation.* <br>
+Zhishuo Zhao, Yi Lin, **Dongyue Guo**, Junyu Fan. <br>
+Proceedings of the 31st ACM International Conference on Multimedia, 2023:213-221. (***<span style="color:#FF7D00">CCF-A</span>***, Co-corresponding author) <br>
 
 1. *Exploring Contextual Knowledge-Enhanced Speech Recognition in Air Traffic Control Communication: A Comparative Study.* <br>
 **Dongyue Guo**, Shiyu Zhang, Jianwei Zhang, Bo Yang, Yi Lin. <br>
@@ -68,10 +72,6 @@ IEEE Transactions on Instrumentation and Measurement, 2025, 74, 6503412.
 1. *Boosting low-resource speech recognition in air traffic communication via pretrained feature aggregation and multi-task learning.* <br>
 **Dongyue Guo**, Zichen Zhang, Bo Yang, Jianwei Zhang, Yi Lin. <br> 
 IEEE Transactions on Circuits and Systems II: Express Briefs, 2023, 70(9):3714-3718. 
-
-1. *AV-RISE: Hierarchical Cross-Modal Denoising for Learning Robust Audio-Visual Speech Representation.* <br>
-Zhishuo Zhao, Yi Lin, **Dongyue Guo**, Junyu Fan. <br>
-Proceedings of the 31st ACM International Conference on Multimedia, 2023:213-221. (***<span style="color:#8B0000">CCF-A</span>***, Co-corresponding author) <br>
 
 1. *A comparative study of speaker role identification in air traffic communication using deep learning approaches.* <br>
 **Dongyue Guo**, Jianwei Zhang, Bo Yang, Yi Lin. <br> 
