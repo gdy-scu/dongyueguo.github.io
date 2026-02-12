@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 
-Dongyue Guo is currently an associate professor with the College of Computer Science, Sichuan University (SCU), Chengdu, China. He received Ph.D. degree from the College of Computer Science, Sichuan University, 2023. His research focuses on intelligent transportation systems, air traffic management, trajectory prediction, and AI-driven decision support technologies. He has led multiple nationally funded research projects and has established a strong publication record in top-tier journals and conferences across transportation engineering and artificial intelligence. 
+**Dongyue Guo** is currently an associate professor with the College of Computer Science, Sichuan University (SCU), Chengdu, China. He received Ph.D. degree from the College of Computer Science, Sichuan University, 2023. His research focuses on intelligent transportation systems, air traffic management, trajectory prediction, and AI-driven decision support technologies. He has led multiple nationally funded research projects and has established a strong publication record in top-tier journals and conferences across transportation engineering and artificial intelligence. 
 
 
-郭东岳，四川大学副研究员（专职科研）。目前，主持国家自然科学基金2项，包括青年科学基金（C类）1项、民航联合基金课题1项（合作单位主持），省部级项目/课题3项；获得中国航空学会科技进步二等奖1项、中国智能交通协会科技进步二等奖1项、入选CCF智能交通分会博士学位论文激励计划；以第一/通信作者身份发表学术论文10余篇，包括Nature Communications、IEEE TNNLS、IEEE TITS、CJA、IEEE TIM、IEEE TCAS-II、ACM TALLIP、AAAI、ACM Multimedia等业内旗舰期刊/会议；申请发明专利20余件。
+**郭东岳**，四川大学副研究员（专职科研）。目前，主持国家自然科学基金2项，包括青年科学基金（C类）1项、民航联合基金课题1项（合作单位主持），省部级项目/课题3项；获得中国航空学会科技进步二等奖1项、中国智能交通协会科技进步二等奖1项、入选CCF智能交通分会博士学位论文激励计划；以第一/通信作者身份发表学术论文10余篇，包括**Nature Communications**、IEEE TNNLS、IEEE TITS、CJA、IEEE TIM、IEEE TCAS-II、ACM TALLIP、AAAI、ACM Multimedia等业内旗舰期刊/会议；申请发明专利20余件。
 
 
 **Email:** dongyueguo@scu.edu.cn
