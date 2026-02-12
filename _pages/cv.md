@@ -13,12 +13,12 @@ Education
 ======
 * Ph.D in Electronic Information, Sichuan University, 2020.09-2023.12
 * M.S. in Software Engineering, Sichuan University, 2017.09-2020.06
-* B.S. in Communication Engineering, Yantai University, 2013.06-2017.06
+* B.S. in Communication Engineering, Yantai University, 2013.09-2017.06
 
 Work experience
 ======
-* Summer 2024: Assistant Professor, College of Computer Science, Sichuan University
 * Summer 2025: Associate Professor, College of Computer Science, Sichuan University
+* Summer 2024: Assistant Professor, College of Computer Science, Sichuan University
 
 
   
